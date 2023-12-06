@@ -1,4 +1,4 @@
-# Digital-Clock
+# Analog-Clock
 
 <ul>
   <li>Made using HTML, CSS, and internal JavaScript.</li>
